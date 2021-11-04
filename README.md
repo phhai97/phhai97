@@ -1,5 +1,7 @@
 
-<img src="https://ibb.co/SmqWbh3" alt="Logo">
+<p align="center">
+  <img  src="https://ibb.co/SmqWbh3" />
+</p>
 
 <!---
 phhai97/phhai97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
