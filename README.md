@@ -1,5 +1,5 @@
 <p align="center">
-  <img align widht="250" height="250" src="https://photos.google.com/u/1/photo/AF1QipMLlWNG9w3t7OGWVBuStKJCxpltxyq4pAbrGoyC" />
+  <img align widht="250" height="250" src="https://ibb.co/SmqWbh3" />
 </p>
 <!---
 phhai97/phhai97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
